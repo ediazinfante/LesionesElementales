@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+<script>
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+</script>
+</head>
+
+<body>
+
+<table style="width:100%;">
+<tbody>
+<tr>
+<td style="width=100%; vertical-align:top;"><img id="Imagen" src="" style="width:640px;height:auto;"/></td>
+</tr>
+</tbody>
+</table>
+<script>
+   document.getElementById('Imagen').src=getParameterByName('img');
+</script>
+
+
+</body>
+
+</html>
