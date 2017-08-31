@@ -1,0 +1,10 @@
+2017-08-31 09:07:54,841 exe.webui.webserver INFO find_port(): found available eXe port# 51236
+2017-08-31 09:07:55,002 exe.application INFO serving
+2017-08-31 09:07:55,002 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-08-31 09:07:55,002 exe.application INFO 
+
+2017-08-31 09:07:55,002 exe.application INFO eXe running...
+2017-08-31 09:07:55,003 exe.webui.webserver INFO run() using eXe port# 51236
+2017-08-31 09:07:55,003 exe.webui.browser INFO url http://localhost:51236/
+2017-08-31 09:07:55,421 exe.webui.browser INFO Defined Browser: 
+2017-08-31 09:08:14,901 exe.webui.packageredirectpage INFO Created a new package name=newPackage

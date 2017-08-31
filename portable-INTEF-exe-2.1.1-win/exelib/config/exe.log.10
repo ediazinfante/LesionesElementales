@@ -1,0 +1,26 @@
+2017-05-27 23:17:09,413 exe.webui.webserver INFO find_port(): found available eXe port# 51235
+2017-05-27 23:17:09,414 exe.application INFO serving
+2017-05-27 23:17:09,414 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-05-27 23:17:09,414 exe.application INFO 
+
+2017-05-27 23:17:09,414 exe.application INFO eXe running...
+2017-05-27 23:17:09,414 exe.webui.webserver INFO run() using eXe port# 51235
+2017-05-27 23:17:09,414 exe.webui.browser INFO url http://localhost:51235/
+2017-05-27 23:17:09,601 exe.webui.browser INFO Defined Browser: 
+2017-05-27 23:17:15,921 exe.webui.packageredirectpage INFO Created a new package name=newPackage
+2017-05-27 23:17:42,812 exe.engine.checker INFO ****** Checking package at C:\Users\ediaz\Documents\Odonto\Lesiones.elp ******
+2017-05-27 23:17:42,828 exe.engine.checker INFO Computing content resource references
+2017-05-27 23:17:42,832 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PapilasFiliformes.png referenced in idevice FreeTextIdevice of node EXÁMEN ESTOMATOLÓGICO not exists
+2017-05-27 23:17:42,832 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PapilasFungiformes.png referenced in idevice FreeTextIdevice of node EXÁMEN ESTOMATOLÓGICO not exists
+2017-05-27 23:17:42,832 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PapilasCalciformes.png referenced in idevice FreeTextIdevice of node EXÁMEN ESTOMATOLÓGICO not exists
+2017-05-27 23:17:42,834 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Lengua.jpg referenced in idevice FreeTextIdevice of node EXÁMEN ESTOMATOLÓGICO not exists
+2017-05-27 23:17:42,844 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LenguaGeo2.jpg referenced in idevice FreeTextIdevice of node Atrofia not exists
+2017-05-27 23:17:42,846 exe.engine.checker ERROR Wrong idevice next id. Fixing...
+2017-05-27 23:17:42,846 exe.engine.checker INFO Clearing resource references
+2017-05-27 23:17:42,848 exe.engine.checker INFO Adding resource references
+2017-05-27 23:17:43,894 exe.engine.checker INFO Checking nodeResourcesChecksums
+2017-05-27 23:17:46,838 exe.engine.checker INFO Checking packageResourcesChecksums
+2017-05-27 23:17:49,812 exe.engine.checker INFO Checking packageResourcesNonReferenced
+2017-05-27 23:17:50,661 exe.engine.checker INFO Checking packageResourcesZombies
+2017-05-27 23:51:17,546 exe.engine.field WARNING file 'c:\users\ediaz\appdata\local\temp\tmplud5hp.eXe\previews\C__Users_ediaz_Documents_Odonto_videoconverted_Encia14s.mp4' does not exist; unable to include it as a possible image resource for this TextAreaElement.
+2017-05-28 00:00:21,601 exe.application INFO done serving
