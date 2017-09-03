@@ -1,0 +1,9 @@
+<!-- Modal image window ---->
+<div id="myModal" class="w3-modal w3-animate-zoom" onclick="this.style.display='none'"><span class="close w3-hover-color4" onclick="document.getElementById('myModal').style.display='none'">×</span> <img id="imgModal" class="modal-content" style="width:640px; height:auto;" /></div>
+
+
+<!-- Onclick --->
+onclick="document.getElementById('myModal').style.display ='block';document.getElementById('imgModal').src = this.src;" 
+
+
+<!-- quitar link-->
