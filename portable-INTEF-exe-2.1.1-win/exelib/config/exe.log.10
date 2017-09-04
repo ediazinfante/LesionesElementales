@@ -1,21 +1,11 @@
-2017-08-31 09:07:54,841 exe.webui.webserver INFO find_port(): found available eXe port# 51236
-2017-08-31 09:07:55,002 exe.application INFO serving
-2017-08-31 09:07:55,002 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
-2017-08-31 09:07:55,002 exe.application INFO 
+2017-08-31 16:21:24,519 exe.webui.webserver INFO find_port(): found available eXe port# 51236
+2017-08-31 16:21:24,687 exe.application INFO serving
+2017-08-31 16:21:24,688 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-08-31 16:21:24,688 exe.application INFO 
 
-2017-08-31 09:07:55,002 exe.application INFO eXe running...
-2017-08-31 09:07:55,003 exe.webui.webserver INFO run() using eXe port# 51236
-2017-08-31 09:07:55,003 exe.webui.browser INFO url http://localhost:51236/
-2017-08-31 09:07:55,421 exe.webui.browser INFO Defined Browser: 
-2017-08-31 09:08:14,901 exe.webui.packageredirectpage INFO Created a new package name=newPackage
-2017-08-31 14:30:58,719 exe.engine.checker INFO ****** Checking package at G:\gitHub\LesionesElementales\Lesiones.elp ******
-2017-08-31 14:30:58,753 exe.engine.checker INFO Computing content resource references
-2017-08-31 14:30:58,782 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LenguaGeo2.jpg referenced in idevice FreeTextIdevice of node Atrofia not exists
-2017-08-31 14:30:58,786 exe.engine.checker ERROR Wrong idevice next id. Fixing...
-2017-08-31 14:30:58,786 exe.engine.checker INFO Clearing resource references
-2017-08-31 14:30:58,786 exe.engine.checker INFO Adding resource references
-2017-08-31 14:30:59,309 exe.engine.checker INFO Checking nodeResourcesChecksums
-2017-08-31 14:31:01,967 exe.engine.checker INFO Checking packageResourcesChecksums
-2017-08-31 14:31:03,302 exe.engine.checker INFO Checking packageResourcesNonReferenced
-2017-08-31 14:31:04,269 exe.engine.checker INFO Checking packageResourcesZombies
-2017-08-31 15:01:52,407 exe.application INFO done serving
+2017-08-31 16:21:24,688 exe.application INFO eXe running...
+2017-08-31 16:21:24,690 exe.webui.webserver INFO run() using eXe port# 51236
+2017-08-31 16:21:24,690 exe.webui.browser INFO url http://localhost:51236/
+2017-08-31 16:21:24,729 exe.webui.browser INFO Defined Browser: 
+2017-08-31 16:21:26,010 exe.webui.packageredirectpage INFO Created a new package name=newPackage
+2017-08-31 16:21:42,562 exe.application INFO done serving

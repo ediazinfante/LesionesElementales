@@ -1,61 +1,58 @@
-2017-09-02 17:43:20,161 exe.webui.webserver INFO find_port(): found available eXe port# 51235
-2017-09-02 17:43:20,309 exe.application INFO serving
-2017-09-02 17:43:20,309 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
-2017-09-02 17:43:20,309 exe.application INFO 
+2017-09-04 11:28:12,760 exe.webui.webserver INFO find_port(): found available eXe port# 51235
+2017-09-04 11:28:14,502 exe.application INFO serving
+2017-09-04 11:28:14,502 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-09-04 11:28:14,502 exe.application INFO 
 
-2017-09-02 17:43:20,309 exe.application INFO eXe running...
-2017-09-02 17:43:20,325 exe.webui.webserver INFO run() using eXe port# 51235
-2017-09-02 17:43:20,325 exe.webui.browser INFO url http://localhost:51235/
-2017-09-02 17:43:20,546 exe.webui.browser INFO Defined Browser: 
-2017-09-02 17:43:21,568 exe.webui.packageredirectpage INFO Created a new package name=newPackage
-2017-09-02 17:43:54,332 exe.engine.checker INFO ****** Checking package at E:\gitHub\LesionesElementales\Lesiones.elp ******
-2017-09-02 17:43:54,348 exe.engine.checker INFO Computing content resource references
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node LESIONES PLANAS! Fixing...
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node MANCHAS! Fixing...
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ClasificacionEtiologica.png referenced in idevice FreeTextIdevice of node MANCHAS not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node Manchas Melánicas! Fixing...
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Vitiligo1.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Vitiligo2.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Pitiriasis.png referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Melanosis1.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Melanosis2.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Efelides1.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Efelides2.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Melasma3.png referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: MElasma4.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Nicotina1.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Nicotina2.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Nicotina3.jpg referenced in idevice FreeTextIdevice of node Manchas Melánicas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node Manchas Hemáticas! Fixing...
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso1.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso2.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: purpurapierna.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PurpuraTrombo3.jpg referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node Manchas por Pigmentos Mucosos! Fixing...
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas1.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas2.jpg referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas3.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-02 17:43:54,364 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node PSEUDOMANCHAS! Fixing...
-2017-09-02 17:43:54,380 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Candidiasis_v2.png referenced in idevice FreeTextIdevice of node PSEUDOMANCHAS not exists
-2017-09-02 17:43:54,381 exe.engine.checker ERROR No parent node for field in idevice FreeTextIdevice in node MÁCULAS! Fixing...
-2017-09-02 17:43:54,382 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Macula_v2.png referenced in idevice FreeTextIdevice of node MÁCULAS not exists
-2017-09-02 17:43:54,384 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ampliar.html?img=Morsicato3.jpg referenced in idevice FreeTextIdevice of node Placa not exists
-2017-09-02 17:43:54,401 exe.engine.checker ERROR Wrong idevice next id. Fixing...
-2017-09-02 17:43:54,401 exe.engine.checker INFO Clearing resource references
-2017-09-02 17:43:54,401 exe.engine.checker INFO Adding resource references
-2017-09-02 17:43:55,119 exe.engine.checker INFO Checking nodeResourcesChecksums
-2017-09-02 17:44:02,148 exe.engine.checker INFO Checking packageResourcesChecksums
-2017-09-02 17:44:04,543 exe.engine.checker INFO Checking packageResourcesNonReferenced
-2017-09-02 17:44:05,325 exe.engine.checker INFO Checking packageResourcesZombies
-2017-09-02 17:44:05,325 exe.engine.node WARNING Found zombie Node "MÁCULAS", nodeId=26 @ 138534992.
-2017-09-02 17:44:05,325 exe.engine.node WARNING Found zombie Node "MANCHAS", nodeId=25 @ 138535248.
-2017-09-02 17:44:05,325 exe.engine.node WARNING Found zombie Node "PSEUDOMANCHAS", nodeId=59 @ 137603888.
-2017-09-02 17:44:05,325 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(PSEUDOMANCHAS)" nodeId=59, @ "137603888"
-2017-09-02 17:44:05,342 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-02 17:44:05,342 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28PSEUDOMANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
-2017-09-02 17:44:05,342 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MANCHAS)" nodeId=25, @ "138535248"
-2017-09-02 17:44:05,342 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-02 17:44:05,342 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28MANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
-2017-09-02 17:44:05,344 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MÁCULAS)" nodeId=26, @ "138534992"
-2017-09-02 17:44:05,344 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-02 17:44:05,345 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28M%C3%81CULAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-04 11:28:14,502 exe.application INFO eXe running...
+2017-09-04 11:28:14,503 exe.webui.webserver INFO run() using eXe port# 51235
+2017-09-04 11:28:14,503 exe.webui.browser INFO url http://localhost:51235/
+2017-09-04 11:28:14,868 exe.webui.browser INFO Defined Browser: 
+2017-09-04 11:28:17,276 exe.webui.webserver INFO find_port(): found available eXe port# 51236
+2017-09-04 11:28:17,365 exe.application INFO serving
+2017-09-04 11:28:17,365 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-09-04 11:28:17,365 exe.application INFO 
+
+2017-09-04 11:28:17,365 exe.application INFO eXe running...
+2017-09-04 11:28:17,367 exe.webui.webserver INFO run() using eXe port# 51236
+2017-09-04 11:28:17,367 exe.webui.browser INFO url http://localhost:51236/
+2017-09-04 11:28:17,403 exe.webui.browser INFO Defined Browser: 
+2017-09-04 11:28:23,194 exe.webui.packageredirectpage INFO Created a new package name=newPackage
+2017-09-04 11:28:23,196 exe.webui.packageredirectpage INFO Created a new package name=newPackage
+2017-09-04 11:28:47,401 exe.application ERROR G:\gitHub\LesionesElementales\portable-INTEF-exe-2.1.1-win\exelib\library.zip\twisted\web\server.py:265: UserWarning: Warning! request.finish called twice.
+
+2017-09-04 11:29:35,842 exe.engine.checker INFO ****** Checking package at G:\gitHub\LesionesElementales\Lesiones.elp ******
+2017-09-04 11:29:35,869 exe.engine.checker INFO Computing content resource references
+2017-09-04 11:29:35,875 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ClasificacionEtiologica.png referenced in idevice FreeTextIdevice of node MANCHAS not exists
+2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso1.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
+2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso2.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
+2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: purpurapierna.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
+2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PurpuraTrombo3.jpg referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
+2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas1.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
+2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas2.jpg referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
+2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas3.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
+2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Candidiasis_v2.png referenced in idevice FreeTextIdevice of node PSEUDOMANCHAS not exists
+2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Macula_v2.png referenced in idevice FreeTextIdevice of node MÁCULAS not exists
+2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ampliar.html?img=Morsicato3.jpg referenced in idevice FreeTextIdevice of node Placa not exists
+2017-09-04 11:29:35,885 exe.engine.checker ERROR Wrong idevice next id. Fixing...
+2017-09-04 11:29:35,885 exe.engine.checker INFO Clearing resource references
+2017-09-04 11:29:35,887 exe.engine.checker INFO Adding resource references
+2017-09-04 11:29:36,713 exe.engine.checker INFO Checking nodeResourcesChecksums
+2017-09-04 11:29:40,894 exe.engine.checker INFO Checking packageResourcesChecksums
+2017-09-04 11:29:41,256 exe.engine.checker INFO Checking packageResourcesNonReferenced
+2017-09-04 11:29:41,563 exe.engine.checker INFO Checking packageResourcesZombies
+2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(MÁCULAS)", nodeId=26 @ 138262352.
+2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(MANCHAS)", nodeId=25 @ 138262320.
+2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(PSEUDOMANCHAS)", nodeId=59 @ 137486000.
+2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(PSEUDOMANCHAS)" nodeId=59, @ "137486000"
+2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28PSEUDOMANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MANCHAS)" nodeId=25, @ "138262320"
+2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28MANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MÁCULAS)" nodeId=26, @ "138262352"
+2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28M%C3%81CULAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-04 11:30:01,575 exe.application INFO done serving
+2017-09-04 12:07:24,632 exe.webui.packageredirectpage ERROR child favicon.ico not found. uri: /favicon.ico
+2017-09-04 12:07:24,632 exe.webui.packageredirectpage ERROR Session uid: 48f6d1ec1149c10d2e74772bfc16096b, Mainpages: {'48f6d1ec1149c10d2e74772bfc16096b': {u'newPackage': <exe.jsui.mainpage.MainPage object at 0x05C5D8F0>, u'Lesiones': <exe.jsui.mainpage.MainPage object at 0x05D4EB30>}}
+2017-09-04 12:57:44,364 exe.application INFO done serving
