@@ -1,58 +1,34 @@
-2017-09-04 11:28:12,760 exe.webui.webserver INFO find_port(): found available eXe port# 51235
-2017-09-04 11:28:14,502 exe.application INFO serving
-2017-09-04 11:28:14,502 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
-2017-09-04 11:28:14,502 exe.application INFO 
+2017-09-05 06:51:50,232 exe.webui.webserver INFO find_port(): found available eXe port# 51235
+2017-09-05 06:51:55,039 exe.application INFO serving
+2017-09-05 06:51:55,039 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
+2017-09-05 06:51:55,055 exe.application INFO 
 
-2017-09-04 11:28:14,502 exe.application INFO eXe running...
-2017-09-04 11:28:14,503 exe.webui.webserver INFO run() using eXe port# 51235
-2017-09-04 11:28:14,503 exe.webui.browser INFO url http://localhost:51235/
-2017-09-04 11:28:14,868 exe.webui.browser INFO Defined Browser: 
-2017-09-04 11:28:17,276 exe.webui.webserver INFO find_port(): found available eXe port# 51236
-2017-09-04 11:28:17,365 exe.application INFO serving
-2017-09-04 11:28:17,365 exe.application INFO Welcome to eXe: the EXtremely Easy to use eLearning authoring tool
-2017-09-04 11:28:17,365 exe.application INFO 
+2017-09-05 06:51:55,055 exe.application INFO eXe running...
+2017-09-05 06:51:55,055 exe.webui.webserver INFO run() using eXe port# 51235
+2017-09-05 06:51:55,055 exe.webui.browser INFO url http://localhost:51235/
+2017-09-05 06:51:55,398 exe.webui.browser INFO Defined Browser: 
+2017-09-05 06:52:20,755 exe.webui.packageredirectpage INFO Created a new package name=newPackage
+2017-09-05 06:56:40,543 exe.application ERROR E:\gitHub\LesionesElementales\portable-INTEF-exe-2.1.1-win\exelib\library.zip\twisted\web\server.py:265: UserWarning: Warning! request.finish called twice.
 
-2017-09-04 11:28:17,365 exe.application INFO eXe running...
-2017-09-04 11:28:17,367 exe.webui.webserver INFO run() using eXe port# 51236
-2017-09-04 11:28:17,367 exe.webui.browser INFO url http://localhost:51236/
-2017-09-04 11:28:17,403 exe.webui.browser INFO Defined Browser: 
-2017-09-04 11:28:23,194 exe.webui.packageredirectpage INFO Created a new package name=newPackage
-2017-09-04 11:28:23,196 exe.webui.packageredirectpage INFO Created a new package name=newPackage
-2017-09-04 11:28:47,401 exe.application ERROR G:\gitHub\LesionesElementales\portable-INTEF-exe-2.1.1-win\exelib\library.zip\twisted\web\server.py:265: UserWarning: Warning! request.finish called twice.
-
-2017-09-04 11:29:35,842 exe.engine.checker INFO ****** Checking package at G:\gitHub\LesionesElementales\Lesiones.elp ******
-2017-09-04 11:29:35,869 exe.engine.checker INFO Computing content resource references
-2017-09-04 11:29:35,875 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ClasificacionEtiologica.png referenced in idevice FreeTextIdevice of node MANCHAS not exists
-2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso1.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: LupusEritematoso2.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: purpurapierna.png referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: PurpuraTrombo3.jpg referenced in idevice FreeTextIdevice of node Manchas Hemáticas not exists
-2017-09-04 11:29:35,877 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas1.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas2.jpg referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Manchas3.png referenced in idevice FreeTextIdevice of node Manchas por Pigmentos Mucosos not exists
-2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Candidiasis_v2.png referenced in idevice FreeTextIdevice of node PSEUDOMANCHAS not exists
-2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: Macula_v2.png referenced in idevice FreeTextIdevice of node MÁCULAS not exists
-2017-09-04 11:29:35,878 exe.engine.checker ERROR New inconsistency of type contentResourceNonExistant: ampliar.html?img=Morsicato3.jpg referenced in idevice FreeTextIdevice of node Placa not exists
-2017-09-04 11:29:35,885 exe.engine.checker ERROR Wrong idevice next id. Fixing...
-2017-09-04 11:29:35,885 exe.engine.checker INFO Clearing resource references
-2017-09-04 11:29:35,887 exe.engine.checker INFO Adding resource references
-2017-09-04 11:29:36,713 exe.engine.checker INFO Checking nodeResourcesChecksums
-2017-09-04 11:29:40,894 exe.engine.checker INFO Checking packageResourcesChecksums
-2017-09-04 11:29:41,256 exe.engine.checker INFO Checking packageResourcesNonReferenced
-2017-09-04 11:29:41,563 exe.engine.checker INFO Checking packageResourcesZombies
-2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(MÁCULAS)", nodeId=26 @ 138262352.
-2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(MANCHAS)", nodeId=25 @ 138262320.
-2017-09-04 11:29:41,565 exe.engine.node WARNING Found zombie Node "ZOMBIE(PSEUDOMANCHAS)", nodeId=59 @ 137486000.
-2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(PSEUDOMANCHAS)" nodeId=59, @ "137486000"
-2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28PSEUDOMANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
-2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MANCHAS)" nodeId=25, @ "138262320"
-2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28MANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
-2017-09-04 11:29:41,565 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MÁCULAS)" nodeId=26, @ "138262352"
-2017-09-04 11:29:41,565 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
-2017-09-04 11:29:41,565 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28M%C3%81CULAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
-2017-09-04 11:30:01,575 exe.application INFO done serving
-2017-09-04 12:07:24,632 exe.webui.packageredirectpage ERROR child favicon.ico not found. uri: /favicon.ico
-2017-09-04 12:07:24,632 exe.webui.packageredirectpage ERROR Session uid: 48f6d1ec1149c10d2e74772bfc16096b, Mainpages: {'48f6d1ec1149c10d2e74772bfc16096b': {u'newPackage': <exe.jsui.mainpage.MainPage object at 0x05C5D8F0>, u'Lesiones': <exe.jsui.mainpage.MainPage object at 0x05D4EB30>}}
-2017-09-04 12:57:44,364 exe.application INFO done serving
+2017-09-05 06:57:45,167 exe.engine.checker INFO ****** Checking package at E:\gitHub\LesionesElementales\Lesiones.elp ******
+2017-09-05 06:57:45,167 exe.engine.checker INFO Computing content resource references
+2017-09-05 06:57:45,197 exe.engine.checker ERROR Wrong idevice next id. Fixing...
+2017-09-05 06:57:45,197 exe.engine.checker INFO Clearing resource references
+2017-09-05 06:57:45,213 exe.engine.checker INFO Adding resource references
+2017-09-05 06:57:45,990 exe.engine.checker INFO Checking nodeResourcesChecksums
+2017-09-05 06:57:49,443 exe.engine.checker INFO Checking packageResourcesChecksums
+2017-09-05 06:57:50,209 exe.engine.checker INFO Checking packageResourcesNonReferenced
+2017-09-05 06:57:50,927 exe.engine.checker INFO Checking packageResourcesZombies
+2017-09-05 06:57:50,927 exe.engine.node WARNING Found zombie Node "ZOMBIE(MANCHAS)", nodeId=25 @ 141908016.
+2017-09-05 06:57:50,927 exe.engine.node WARNING Found zombie Node "ZOMBIE(PSEUDOMANCHAS)", nodeId=59 @ 141110736.
+2017-09-05 06:57:50,927 exe.engine.node WARNING Found zombie Node "ZOMBIE(MÁCULAS)", nodeId=26 @ 141908048.
+2017-09-05 06:57:50,927 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MÁCULAS)" nodeId=26, @ "141908048"
+2017-09-05 06:57:50,927 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-05 06:57:50,927 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28M%C3%81CULAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-05 06:57:50,943 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(PSEUDOMANCHAS)" nodeId=59, @ "141110736"
+2017-09-05 06:57:50,943 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-05 06:57:50,943 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28PSEUDOMANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-05 06:57:50,943 exe.engine.node WARNING pruning zombie Node [parent=None] "ZOMBIE(MANCHAS)" nodeId=25, @ "141908016"
+2017-09-05 06:57:50,943 exe.engine.field WARNING RemoveInternalLinkToRemovedAnchor did not find the link-destination anchor as expected; removing anyway.
+2017-09-05 06:57:50,943 exe.engine.field WARNING Removed internal link to removed-anchor: exe-node:ZOMBIE%28MANCHAS%29#auto_top from node: exe-node:LESIONES%20ELEMENTALES:LESIONES%20PLANAS
+2017-09-05 07:05:55,765 exe.application INFO done serving
